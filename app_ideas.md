@@ -75,13 +75,13 @@ Youtube
 
 ## New App Ideas - Evaluate and Categorize
 1. Meal Maker App
-   - **Description**:
-   - **Category:** 
-   - **Mobile:** 
-   - **Story:** 
-   - **Market:** 
-   - **Habit:** 
-   - **Scope:** 
+   - **Description**: an app that gives you list of recipes based on what you have on you fridge.
+   - **Category:** Food and Drink
+   - **Mobile:** This is not inherently exclusive to a mobile device as it could easily be created in website form
+   - **Story:** Sometimes you want to make a recipe but you don't want to go out and buy ingredients, so you get recipes that use ingredients that you already have
+   - **Market:** Anyone, but mainly young adults living on their own or any family member that cooks
+   - **Habit:** It is not addictive but the user can open the app multiple times a day for recipes
+   - **Scope:** There would have to be a list of pre-selected ingredients (in the app dictionary style) that match up with ingredients in a list of recipes, and you can check off which ingredients are in your fridge (list style), and then it returns recipes that contain those ingredients
 
 2. Safety App
    - **Description**: An app that lets you sends your location and the time sent to your loved ones and friends when you are in a sketchy place, a date, or going out late.
